@@ -1,2 +1,2 @@
 # Minesweeper
- A simple minefield game made in c ++ with the console output.
+ A simple Minesweeper game made in c ++ with the console output.
